@@ -11,4 +11,7 @@
 
 ---
 
-###
+### Array of Hope
+* we learned about arrays and their uses.
+* essentially it helps set a variable to be defined as a list of values.
+* we learned how  to manipulate those arrays with methods like _.push_ , which adds to something to the array in the last spot.
