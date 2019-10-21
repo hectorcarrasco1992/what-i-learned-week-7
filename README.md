@@ -15,3 +15,13 @@
 * we learned about arrays and their uses.
 * essentially it helps set a variable to be defined as a list of values.
 * we learned how  to manipulate those arrays with methods like _.push_ , which adds to something to the array in the last spot.
+* learned how to include arrays in functions and loops to constantly change the array.
+
+![alt-text](https://media.giphy.com/media/NXWYyKAHim63u/source.gif)
+
+---
+# DO NOT MUTATE ARRAYS
+
+![alt-text](https://media.giphy.com/media/d2IWQbmgJV03ejJfeJ/source.gif)
+
+
