@@ -22,6 +22,8 @@
 ---
 # DO NOT MUTATE ARRAYS
 
-![alt-text](https://media.giphy.com/media/d2IWQbmgJV03ejJfeJ/source.gif)
+
+
+
 
 
